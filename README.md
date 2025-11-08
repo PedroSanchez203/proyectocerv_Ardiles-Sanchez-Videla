@@ -1,6 +1,6 @@
-# ProyectoCervantes-LabII-Videla
+# proyectocerv_Ardiles-Sanchez-Videla
 
-
+URL del repositorio: https://github.com/PedroSanchez203/proyectocerv_Ardiles-Sanchez-Videla.git
 
 ## Getting started
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/juanii.jn102/proyectocervantes-labii-videla.git
+git remote add origin https://github.com/PedroSanchez203/proyectocerv_Ardiles-Sanchez-Videla.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/juanii.jn102/proyectocervantes-labii-videla/-/settings/integrations)
+- [ ] [Set up project integrations]
 
 ## Collaborate with your team
 
